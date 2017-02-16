@@ -1,0 +1,35 @@
+*              text=auto
+
+*.sln          text        eol=crlf
+*.*proj        text        eol=crlf
+*.config       text        eol=crlf
+*.cs           text        eol=crlf
+*.asax         text        eol=crlf
+*.xml          text        eol=crlf
+*.js           text        eol=crlf
+*.ts           text        eol=crlf
+*.ps1          text        eol=crlf
+*.psm1         text        eol=crlf
+*.md           text        eol=crlf
+*.json         text        eol=crlf
+*.bat          text        eol=crlf
+*.bat          text        eol=crlf
+*.htm          text        eol=crlf
+*.html         text        eol=crlf
+*.css          text        eol=crlf
+*.sass         text        eol=crlf
+*.less         text        eol=crlf
+*.DotSettings  text        eol=crlf
+
+*.png          binary
+*.gif          binary
+*.jpg          binary
+*.jpeg         binary
+*.pdf          binary
+*.ico          binary
+*.eot          binary
+*.svg          binary
+*.ttf          binary
+*.woff         binary
+*.woff2        binary
+*.sdf          binary
